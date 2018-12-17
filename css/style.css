@@ -1,0 +1,39 @@
+.logo-image {
+    width: 80px;
+    height: 60px;
+}
+
+.skills-image {
+    width: 250px !important;
+}
+
+.main-picture {
+    width: 100% !important;
+
+}
+
+.footer {
+    display: inline-block;
+}
+
+.skills-images-container {
+    margin-top: 25px;
+}
+
+.line {
+    width: 100%;
+}
+
+.row {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;  
+    font-size: 12px;
+    
+}
+
+.biography {
+    font-style: italic; 
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    display: inline-block; 
+    text-align: center; 
+}
